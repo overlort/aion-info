@@ -70,7 +70,7 @@ type: заметка
 
 - Макрос на ПКМ. ЛКМ зажата под автоатаку, ПКМ — ротация.
 - Линии макроса: <abbr title="Приговор">Condemnation</abbr> и <abbr title="Клеймо бессилия">Debilitating Mark</abbr>.
-- **Апдейт (<abbr title="Возмездие природы">Earth Punishment</abbr> 20):** убрать <abbr title="Карающая молния">Judgment Thunder</abbr> из макроса на боссах. Он ворует анимацию <abbr title="Приговор">Condemnation</abbr>, а без него больше автоатак, а значит больше проков и CDR. Сначала может показаться слабее, пока <abbr title="Приговор">Condemnation</abbr> и <abbr title="Раскат грома">Bolt</abbr> не 16.
+- **Апдейт (<abbr title="Возмездие природы">Earth Punishment</abbr> 20):** убрать <abbr title="Карающая молния">Judgment Thunder</abbr> из макроса на боссах. Он ворует анимацию <abbr title="Приговор">Condemnation</abbr>, а без него больше автоатак, а значит больше проков и <abbr title="Сокращение времени перезарядки">CDR</abbr>. Сначала может показаться слабее, пока <abbr title="Приговор">Condemnation</abbr> и <abbr title="Раскат грома">Bolt</abbr> не 16.
 - Было три линии <abbr title="Приговор">Condemnation</abbr> против одной Mark, после удаления Thunder остаётся две на две.
 - **На мобах** Thunder по-прежнему нужен.
 - <abbr title="Клеймо бессилия">Debilitating Mark</abbr> — крошечный минус урона, но дебафф полезен пати. Убирать только с Чантером (его Earth's Promise перекрывает дебафф).
@@ -86,19 +86,19 @@ type: заметка
 ## Доска Дэваниона
 
 1. Довести активки до 12 (на каждой доске по одному скиллу, на все доски не нужно).
-2. Оранжевые атакующие ноды: Combat Speed, CDR, Damage Boost, Crit Damage Boost, Multi-Hit Chance.
+2. Оранжевые атакующие ноды: <abbr title="СКР боя">Combat Speed</abbr>, <abbr title="Сокращение времени перезарядки">CDR</abbr>, <abbr title="Увелич. урона">Damage Boost</abbr>, <abbr title="Увелич. крит. урона">Crit Damage Boost</abbr>, <abbr title="Попадание мультиударом">Multi-Hit Chance</abbr>.
 3. Пассивки <abbr title="Благосклонность Владык Эмпирея">Empyrean Lord's Grace</abbr> и <abbr title="Дар земли">Earth's Grace</abbr>.
 4. Ноды атаки и крита.
-5. Оранжевая защита: Damage Tolerance, Crit Damage Tolerance. **Multi-Hit Resist не брать** — только для PvP, и там слабый.
+5. Оранжевая защита: <abbr title="Стойкость к урону">Damage Tolerance</abbr>, <abbr title="Стойкость к крит. урону">Crit Damage Tolerance</abbr>. **<abbr title="Сопротивление мультиудару">Multi-Hit Resist</abbr> не брать** — только для PvP, и там слабый.
 6. Остальное — HP и Defense. Избегать нод MP+50.
 
-## Крылья, титулы, CDR
+## Крылья, титулы, <abbr title="Сокращение времени перезарядки">CDR</abbr>
 
-- **Нужно как можно больше CDR** для бесконечных проков <abbr title="Приговор">Condemnation</abbr>. Идеал — 33%, но в 1 сезоне реально около 10–11%.
+- **Нужно как можно больше <abbr title="Сокращение времени перезарядки">CDR</abbr>** для бесконечных проков <abbr title="Приговор">Condemnation</abbr>. Идеал — 33%, но в 1 сезоне реально около 10–11%.
 - **Крылья:** начинать с Forest Spirit (самые дешёвые и лучшие на урон по боссам), потом всё, кроме Dark Veil. BiS — Tisra из сезонного магазина. Собирать все крылья ради owned-эффектов.
-- **Титул атаки:** Guardian of Baran или Artguard ❓ (PvE damage boost), BiS — **Unbound by Genus** (все генусы на 10, см. [[Генусы]]).
-- **Титул защиты:** Saint ❓ на Damage Tolerance.
-- **Прочий титул:** Helen Black ❓ на CDR, BiS — **Empty Closet** ❓ (Combat Speed и CDR) за 700 скинов в гардеробе. Гардероб общий на аккаунт, так что твины тоже помогают: разбирать синие вещи и ниже.
+- **Титул атаки:** Guardian of Baran или Artguard ❓ (PvE damage boost), BiS — **<abbr title="Вне категорий (титул)">Unbound by Genus</abbr>** (все генусы на 10, см. [[Генусы]]).
+- **Титул защиты:** Saint ❓ на <abbr title="Стойкость к урону">Damage Tolerance</abbr>.
+- **Прочий титул:** Helen Black ❓ на <abbr title="Сокращение времени перезарядки">CDR</abbr>, BiS — **Empty Closet** ❓ (<abbr title="СКР боя">Combat Speed</abbr> и <abbr title="Сокращение времени перезарядки">CDR</abbr>) за 700 скинов в гардеробе. Гардероб общий на аккаунт, так что твины тоже помогают: разбирать синие вещи и ниже.
 
 ## Шмот
 

@@ -36,7 +36,7 @@ type: заметка
 | <abbr title="Удар щитом">Shield Smite</abbr> | — | 3, 4 | — | — |
 | <abbr title="Ловушка">Poach</abbr> | — | 1, 4 | — | — |
 | <abbr title="Удар щитом">Shield Rush</abbr> | — | 2, 4 | — | — |
-| <abbr title="Удар изнеможения">Debility Smash</abbr> | — | 2, 4 | — | — |
+| <abbr title="Удар изнеможения">Debilitating Smash</abbr> | — | 2, 4 | — | — |
 | <abbr title="Снятие шока">Defiance</abbr> | — | 2, 3 | 3, 5 (5 вместо 2) | — |
 | ❓ (не расслышано) | — | 3, 4 | — | — |
 
@@ -44,7 +44,7 @@ type: заметка
 - **<abbr title="Суд">Judgment</abbr>** — около 35–40% всего урона с 16 уровня, главный приоритет.
 - **<abbr title="Суд">Judgment</abbr> на 16:** 3 и 5 вместо крит-трипода, потому что крит уже добирается с доски и пассивки <abbr title="Кара небес">Punishing Benediction</abbr>. Автор проверял.
 - **<abbr title="Кровавая месть">Punishment</abbr>:** вместо доты можно взять 4-й (мобильность), если хочется подвижности, но это минус урон.
-- **<abbr title="Удар изнеможения">Debility Smash</abbr>** режет защиту на 25%. У нынешних боссов защита почти нулевая, так что сейчас выгода маленькая, позже станет нужнее. Можно снять.
+- **<abbr title="Удар изнеможения">Debilitating Smash</abbr>** режет защиту на 25%. У нынешних боссов защита почти нулевая, так что сейчас выгода маленькая, позже станет нужнее. Можно снять.
 
 ## Пассивки
 
@@ -78,7 +78,7 @@ type: заметка
 | --- | --- |
 | 1 | <abbr title="Суд">Judgment</abbr> → <abbr title="Провокация">Taunt</abbr> |
 | 2 | <abbr title="Удар щитом">Shield Smite</abbr> → <abbr title="Суд">Judgment</abbr> → <abbr title="Кара хранителя">Warding Strike</abbr> → <abbr title="Град ударов">Pummel</abbr> |
-| 3 | <abbr title="Провокация">Taunt</abbr> → <abbr title="Удар изнеможения">Debility Smash</abbr> → <abbr title="Истребление">Annihilate</abbr> |
+| 3 | <abbr title="Провокация">Taunt</abbr> → <abbr title="Удар изнеможения">Debilitating Smash</abbr> → <abbr title="Истребление">Annihilate</abbr> |
 
 - <abbr title="Провокация">Taunt</abbr> стоит после <abbr title="Суд">Judgment</abbr>, чтобы <abbr title="Суд">Judgment</abbr> всегда был в приоритете. На <abbr title="Провокация">Taunt</abbr> 20 аптайм дебаффа и так почти 100%.
 - <abbr title="Удар щитом">Shield Smite</abbr> первым, потому что у него кд короче.
